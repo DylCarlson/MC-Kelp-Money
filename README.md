@@ -1,6 +1,6 @@
 # MC-Kelp-Money
 A Minecraft resource pack replacing kelp with dollar bills.
-
+![alt text](https://github.com/DylCarlson/MC-Kelp-Money/blob/main/Kelp-Is-Money/pack.png)
 
 ### How to use this Resource Pack
 To use this resource pack, simply copy the Kelp-Is-Money folder to your resource pack folder for minecraft. There are two ways to find the resource pack folder, one
