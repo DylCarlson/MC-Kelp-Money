@@ -21,6 +21,6 @@ Alternatively, without the game open:
 
 ### References
 
-https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack
-https://www.gimp.org/
-https://thomas-cokelaer.info/blog/2016/09/gimp-how-to-make-a-transparent-background/
+- https://minecraft.fandom.com/wiki/Tutorials/Creating_a_resource_pack
+- https://www.gimp.org/
+- https://thomas-cokelaer.info/blog/2016/09/gimp-how-to-make-a-transparent-background/
